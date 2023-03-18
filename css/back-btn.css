@@ -1,0 +1,10 @@
+.arrow_back-removebg-preview-1,
+.arrow_back-removebg-preview-1 * {
+  box-sizing: border-box;
+}
+.arrow_back-removebg-preview-1 {
+  width: 60px;
+  height: 60px;
+  position: relative;
+  margin-top: -5px;
+}

@@ -1,0 +1,413 @@
+body {
+   background-color: #ccc;
+}
+
+.wireless---network {
+   display: block;
+   width: 40%;
+   margin: auto;
+}
+
+.wireless---network, .wireless---network * { box-sizing: border-box; }.wireless---network {
+      background: #ffffff;
+      border-radius: 30px;
+      width: 375px; height: 812px;
+      position: relative;
+      overflow: hidden;
+    }
+ .rectangle-15 {
+      background: #ffffff;
+      width: 375px; height: 812px;
+      position: absolute; left: 0px;top: 0px;
+    }
+ .group-30 {
+      width: 36px; height: 20px;
+      position: static;
+    }
+ .line-7 {
+  border-style: solid; 
+  border-color: #000000;
+  border-width: 1px 0 0 0;
+      width: 18.79px; height: 0px;
+      position: absolute; left: 19px;top: 48.05px;
+    transform-origin: 0 0;
+    transform: rotate(-45deg) scale(1.195, 0.756);
+    }
+ .line-8 {
+  border-style: solid; 
+  border-color: #000000;
+  border-width: 1px 0 0 0;
+      width: 18.79px; height: 0px;
+      position: absolute; left: 19px;top: 47.95px;
+    transform-origin: 0 0;
+    transform: rotate(45deg) scale(1.195, 0.756);
+    }
+ .line-9 {
+  border-style: solid; 
+  border-color: #000000;
+  border-width: 1px 0 0 0;
+      width: 35.92px; height: 0px;
+      position: absolute; left: 19.08px;top: 47.96px;
+    transform-origin: 0 0;
+    transform: rotate(0deg) scale(1, 1);
+    }
+ .wireless-and-network {
+      color: #000000;
+      text-align: left;
+      font: 400 24px 'Inter', sans-serif;
+      position: absolute; left: 70px;top: 34px;
+      display: flex;
+align-items: center;justify-content: flex-start
+    }
+ .line-72 {
+  border-style: solid; 
+  border-color: rgba(0, 0, 0, 0.45);
+  border-width: 1px 0 0 0;
+      width: 13.96px; height: 0px;
+      position: absolute; left: 347.85px;top: 108.46px;
+    transform-origin: 0 0;
+    transform: rotate(135deg) scale(1.19, 0.764);
+    }
+ .line-82 {
+  border-style: solid; 
+  border-color: rgba(0, 0, 0, 0.45);
+  border-width: 1px 0 0 0;
+      width: 13.96px; height: 0px;
+      position: absolute; left: 347.85px;top: 108.54px;
+    transform-origin: 0 0;
+    transform: rotate(-135deg) scale(1.19, 0.764);
+    }
+ .rectangle-17 {
+      position: absolute; left: 19.6px;top: 90px;
+      overflow: visible;
+    }
+ ._1 {
+      color: #ffffff;
+      text-align: center;
+      font: 700 35px 'Inter', sans-serif;
+      position: absolute; left: 28.25px;top: 88px;
+      width: 19.44px;
+      display: flex;
+align-items: center;justify-content: center
+    }
+ .airtel-ng {
+      color: #000000;
+      text-align: center;
+      font: 400 20px 'Inter', sans-serif;
+      position: absolute; left: 43.37px;top: 88px;
+      width: 171.75px; height: 27px;
+      display: flex;
+align-items: center;justify-content: center
+    }
+ ._08026754532 {
+      color: #000000;
+      text-align: center;
+      font: 400 12px 'Inter', sans-serif;
+      position: absolute; left: 40.13px;top: 108px;
+      width: 171.75px; height: 27px;
+      display: flex;
+align-items: center;justify-content: center
+    }
+ .line-73 {
+  border-style: solid; 
+  border-color: rgba(0, 0, 0, 0.45);
+  border-width: 1px 0 0 0;
+      width: 13.96px; height: 0px;
+      position: absolute; left: 347.85px;top: 178.46px;
+    transform-origin: 0 0;
+    transform: rotate(135deg) scale(1.19, 0.764);
+    }
+ .line-83 {
+  border-style: solid; 
+  border-color: rgba(0, 0, 0, 0.45);
+  border-width: 1px 0 0 0;
+      width: 13.96px; height: 0px;
+      position: absolute; left: 347.85px;top: 178.54px;
+    transform-origin: 0 0;
+    transform: rotate(-135deg) scale(1.19, 0.764);
+    }
+ .rectangle-172 {
+      position: absolute; left: 19.6px;top: 160px;
+      overflow: visible;
+    }
+ ._12 {
+      color: #ffffff;
+      text-align: center;
+      font: 700 35px 'Inter', sans-serif;
+      position: absolute; left: 28.25px;top: 158px;
+      width: 19.44px;
+      display: flex;
+align-items: center;justify-content: center
+    }
+ .glo-ng {
+      color: #000000;
+      text-align: center;
+      font: 400 20px 'Inter', sans-serif;
+      position: absolute; left: 31.49px;top: 158px;
+      width: 171.75px; height: 27px;
+      display: flex;
+align-items: center;justify-content: center
+    }
+ ._080267545322 {
+      color: #000000;
+      text-align: center;
+      font: 400 12px 'Inter', sans-serif;
+      position: absolute; left: 40.13px;top: 178px;
+      width: 171.75px; height: 27px;
+      display: flex;
+align-items: center;justify-content: center
+    }
+ .line-10 {
+  border-style: solid; 
+  border-color: rgba(0, 0, 0, 0.20);
+  border-width: 2px 0 0 0;
+      width: 377.01px; height: 0px;
+      position: absolute; left: -2.01px;top: 227.5px;
+    }
+ .line-74 {
+  border-style: solid; 
+  border-color: rgba(0, 0, 0, 0.45);
+  border-width: 1px 0 0 0;
+      width: 13.91px; height: 0px;
+      position: absolute; left: 348px;top: 635.46px;
+    transform-origin: 0 0;
+    transform: rotate(135deg) scale(1.189, 0.766);
+    }
+ .line-84 {
+  border-style: solid; 
+  border-color: rgba(0, 0, 0, 0.45);
+  border-width: 1px 0 0 0;
+      width: 13.91px; height: 0px;
+      position: absolute; left: 348px;top: 635.54px;
+    transform-origin: 0 0;
+    transform: rotate(-135deg) scale(1.189, 0.766);
+    }
+ .wi-fi-preferences {
+      color: #000000;
+      text-align: center;
+      font: 400 20px 'Inter', sans-serif;
+      position: absolute; left: 19.34px;top: 605px;
+      width: 182.66px;
+      display: flex;
+align-items: center;justify-content: center
+    }
+ .notify-for-public-networks--auto-switch-to-mobile-data {
+      color: rgba(0, 0, 0, 0.40);
+      text-align: left;
+      font: 400 15px 'Inter', sans-serif;
+      position: absolute; left: 19.34px;top: 629px;
+      width: 287.96px;
+      display: flex;
+align-items: center;justify-content: flex-start
+    }
+ .line-75 {
+  border-style: solid; 
+  border-color: rgba(0, 0, 0, 0.45);
+  border-width: 1px 0 0 0;
+      width: 13.91px; height: 0px;
+      position: absolute; left: 348px;top: 706.46px;
+    transform-origin: 0 0;
+    transform: rotate(135deg) scale(1.189, 0.766);
+    }
+ .line-85 {
+  border-style: solid; 
+  border-color: rgba(0, 0, 0, 0.45);
+  border-width: 1px 0 0 0;
+      width: 13.91px; height: 0px;
+      position: absolute; left: 348px;top: 706.54px;
+    transform-origin: 0 0;
+    transform: rotate(-135deg) scale(1.189, 0.766);
+    }
+ .wi-fi-data-usage {
+      color: #000000;
+      text-align: center;
+      font: 400 20px 'Inter', sans-serif;
+      position: absolute; left: 21.49px;top: 685px;
+      width: 174.07px;
+      display: flex;
+align-items: center;justify-content: center
+    }
+ ._0-b-used-feb-2---mar-2 {
+      color: rgba(0, 0, 0, 0.40);
+      text-align: left;
+      font: 400 15px 'Inter', sans-serif;
+      position: absolute; left: 21.49px;top: 710px;
+      width: 287.96px;
+      display: flex;
+align-items: center;justify-content: flex-start
+    }
+ .line-12 {
+  border-style: solid; 
+  border-color: rgba(0, 0, 0, 0.20);
+  border-width: 2px 0 0 0;
+      width: 375.01px; height: 0px;
+      position: absolute; left: -0.01px;top: 573.5px;
+    }
+ .advanced-settings {
+      color: rgba(0, 0, 0, 0.40);
+      text-align: center;
+      font: 300 13px 'Inter', sans-serif;
+      position: absolute; left: 19.34px;top: 578px;
+      width: 148.28px;
+      display: flex;
+align-items: center;justify-content: center
+    }
+ .line-76 {
+  border-style: solid; 
+  border-color: rgba(0, 0, 0, 0.45);
+  border-width: 1px 0 0 0;
+      width: 13.91px; height: 0px;
+      position: absolute; left: 348px;top: 285.46px;
+    transform-origin: 0 0;
+    transform: rotate(135deg) scale(1.189, 0.766);
+    }
+ .line-86 {
+  border-style: solid; 
+  border-color: rgba(0, 0, 0, 0.45);
+  border-width: 1px 0 0 0;
+      width: 13.91px; height: 0px;
+      position: absolute; left: 348px;top: 285.54px;
+    transform-origin: 0 0;
+    transform: rotate(-135deg) scale(1.189, 0.766);
+    }
+ .line-77 {
+  border-style: solid; 
+  border-color: rgba(0, 0, 0, 0.45);
+  border-width: 1px 0 0 0;
+      width: 13.91px; height: 0px;
+      position: absolute; left: 348px;top: 345.46px;
+    transform-origin: 0 0;
+    transform: rotate(135deg) scale(1.189, 0.766);
+    }
+ .line-87 {
+  border-style: solid; 
+  border-color: rgba(0, 0, 0, 0.45);
+  border-width: 1px 0 0 0;
+      width: 13.91px; height: 0px;
+      position: absolute; left: 348px;top: 345.54px;
+    transform-origin: 0 0;
+    transform: rotate(-135deg) scale(1.189, 0.766);
+    }
+ .line-78 {
+  border-style: solid; 
+  border-color: rgba(0, 0, 0, 0.45);
+  border-width: 1px 0 0 0;
+      width: 13.91px; height: 0px;
+      position: absolute; left: 348px;top: 406.46px;
+    transform-origin: 0 0;
+    transform: rotate(135deg) scale(1.189, 0.766);
+    }
+ .line-88 {
+  border-style: solid; 
+  border-color: rgba(0, 0, 0, 0.45);
+  border-width: 1px 0 0 0;
+      width: 13.91px; height: 0px;
+      position: absolute; left: 348px;top: 406.54px;
+    transform-origin: 0 0;
+    transform: rotate(-135deg) scale(1.189, 0.766);
+    }
+ .data-preference {
+      color: #000000;
+      text-align: center;
+      font: 400 20px 'Inter', sans-serif;
+      position: absolute; left: 19.34px;top: 265px;
+      width: 164.4px;
+      display: flex;
+align-items: center;justify-content: center
+    }
+ .airtel-ng--sim-slot-1- {
+      color: rgba(0, 0, 0, 0.40);
+      text-align: center;
+      font: 400 15px 'Inter', sans-serif;
+      position: absolute; left: 19.34px;top: 288px;
+      width: 157.95px;
+      display: flex;
+align-items: center;justify-content: center
+    }
+ .call-preference {
+      color: #000000;
+      text-align: center;
+      font: 400 20px 'Inter', sans-serif;
+      position: absolute; left: 19.34px;top: 324px;
+      width: 154.72px;
+      display: flex;
+align-items: center;justify-content: center
+    }
+ .glo-ng--sim-slot-1- {
+      color: rgba(0, 0, 0, 0.40);
+      text-align: center;
+      font: 400 15px 'Inter', sans-serif;
+      position: absolute; left: 21.34px;top: 349px;
+      width: 142.91px;
+      display: flex;
+align-items: center;justify-content: center
+    }
+ .message-preference {
+      color: #000000;
+      text-align: center;
+      font: 400 20px 'Inter', sans-serif;
+      position: absolute; left: 19.34px;top: 386px;
+      width: 208.45px;
+      display: flex;
+align-items: center;justify-content: center
+    }
+ .airtel-ng--sim-slot-1-2 {
+      color: rgba(0, 0, 0, 0.40);
+      text-align: center;
+      font: 400 15px 'Inter', sans-serif;
+      position: absolute; left: 19.34px;top: 409px;
+      width: 157.95px;
+      display: flex;
+align-items: center;justify-content: center
+    }
+ .line-11 {
+  border-style: solid; 
+  border-color: rgba(0, 0, 0, 0.20);
+  border-width: 2px 0 0 0;
+      width: 375.01px; height: 0px;
+      position: absolute; left: -0.01px;top: 446.5px;
+    }
+ .default-card-settings {
+      color: rgba(0, 0, 0, 0.40);
+      text-align: center;
+      font: 300 13px 'Inter', sans-serif;
+      position: absolute; left: 21.49px;top: 238px;
+      width: 175.14px;
+      display: flex;
+align-items: center;justify-content: center
+    }
+ .wi-fi-settings {
+      color: rgba(0, 0, 0, 0.40);
+      text-align: center;
+      font: 300 13px 'Inter', sans-serif;
+      position: absolute; left: 21.49px;top: 451px;
+      width: 107.45px;
+      display: flex;
+align-items: center;justify-content: center
+    }
+ .rectangle-18 {
+      background: linear-gradient(89.54deg, rgba(245, 245, 245, 1.00) 0%,rgba(255, 255, 255, 1.00) 100%);
+      width: 374.99px; height: 64px;
+      position: absolute; left: 0px;top: 478px;
+    }
+ .use-wi-fi {
+      color: #000000;
+      text-align: center;
+      font: 300 20px 'Inter', sans-serif;
+      position: absolute; left: 19.34px;top: 498px;
+      width: 99.93px;
+      display: flex;
+align-items: center;justify-content: center
+    }
+ .rectangle-19 {
+      background: #d9d9d9;
+      border-radius: 120px;
+      width: 53.72px; height: 25px;
+      position: absolute; left: 307.3px;top: 498px;
+    }
+ .ellipse-2 {
+      background: #ffffff;
+      border-radius: 50%;
+      width: 24.21px; height: 23.53px;
+      position: absolute; left: 308.06px;top: 498.74px;
+    }

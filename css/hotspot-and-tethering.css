@@ -1,0 +1,178 @@
+body {
+   background-color: #ccc;
+}
+
+.hotspot-and-tethering {
+   display: block;
+   width: 40%;
+   margin: auto;
+}
+
+.hotspot-and-tethering, .hotspot-and-tethering * { box-sizing: border-box; }.hotspot-and-tethering {
+      background: #ffffff;
+      border-radius: 30px;
+      width: 375px; height: 812px;
+      position: relative;
+      overflow: hidden;
+    }
+ .rectangle-22 {
+      background: #ffffff;
+      width: 375px; height: 812px;
+      position: absolute; left: 0px;top: 0px;
+    }
+ .group-31 {
+      width: 36px; height: 20px;
+      position: static;
+    }
+ .line-7 {
+  border-style: solid; 
+  border-color: #000000;
+  border-width: 1px 0 0 0;
+      width: 18.79px; height: 0px;
+      position: absolute; left: 19.01px;top: 44.05px;
+    transform-origin: 0 0;
+    transform: rotate(-45deg) scale(1.195, 0.756);
+    }
+ .line-8 {
+  border-style: solid; 
+  border-color: #000000;
+  border-width: 1px 0 0 0;
+      width: 18.79px; height: 0px;
+      position: absolute; left: 19.01px;top: 43.95px;
+    transform-origin: 0 0;
+    transform: rotate(45deg) scale(1.195, 0.756);
+    }
+ .line-9 {
+  border-style: solid; 
+  border-color: #000000;
+  border-width: 1px 0 0 0;
+      width: 35.92px; height: 0px;
+      position: absolute; left: 19.09px;top: 43.96px;
+    transform-origin: 0 0;
+    transform: rotate(0deg) scale(1, 1);
+    }
+ .hotsport-and-tethering {
+      color: #000000;
+      text-align: left;
+      font: 400 24px 'Inter', sans-serif;
+      position: absolute; left: 70.01px;top: 30px;
+      display: flex;
+align-items: center;justify-content: flex-start
+    }
+ .line-72 {
+  border-style: solid; 
+  border-color: rgba(0, 0, 0, 0.45);
+  border-width: 1px 0 0 0;
+      width: 13.96px; height: 0px;
+      position: absolute; left: 347.86px;top: 117.46px;
+    transform-origin: 0 0;
+    transform: rotate(135deg) scale(1.19, 0.764);
+    }
+ .line-82 {
+  border-style: solid; 
+  border-color: rgba(0, 0, 0, 0.45);
+  border-width: 1px 0 0 0;
+      width: 13.96px; height: 0px;
+      position: absolute; left: 347.86px;top: 117.54px;
+    transform-origin: 0 0;
+    transform: rotate(-135deg) scale(1.19, 0.764);
+    }
+ .wi-fi-hotspot {
+      color: #000000;
+      text-align: center;
+      font: 400 20px 'Inter', sans-serif;
+      position: absolute; left: 23.35px;top: 97px;
+      display: flex;
+align-items: center;justify-content: center
+    }
+ .rectangle-20 {
+      background: rgba(217, 217, 217, 0.45);
+      border-radius: 120px;
+      width: 53.72px; height: 25px;
+      position: absolute; left: 310.01px;top: 189px;
+    }
+ ._0-devices-coneected {
+      color: rgba(0, 0, 0, 0.40);
+      text-align: center;
+      font: 400 15px 'Inter', sans-serif;
+      position: absolute; left: 19.35px;top: 120px;
+      width: 157.95px;
+      display: flex;
+align-items: center;justify-content: center
+    }
+ .line-11 {
+  border-style: solid; 
+  border-color: rgba(0, 0, 0, 0.20);
+  border-width: 2px 0 0 0;
+      width: 375.01px; height: 0px;
+      position: absolute; left: 0px;top: 359.5px;
+    }
+ .usb-tethering {
+      color: rgba(0, 0, 0, 0.45);
+      text-align: center;
+      font: 400 20px 'Inter', sans-serif;
+      position: absolute; left: 22.35px;top: 171px;
+      display: flex;
+align-items: center;justify-content: center
+    }
+ .share-phone-s-internet-connection-via-usb {
+      color: rgba(0, 0, 0, 0.40);
+      text-align: left;
+      font: 400 15px 'Inter', sans-serif;
+      position: absolute; left: 23.01px;top: 196px;
+      width: 249px;
+      display: flex;
+align-items: center;justify-content: flex-start
+    }
+ .ellipse-3 {
+      background: #ffffff;
+      border-radius: 50%;
+      width: 24.21px; height: 23.53px;
+      position: absolute; left: 312.01px;top: 190px;
+    }
+ .bluetooth-tethering {
+      color: #000000;
+      text-align: center;
+      font: 400 20px 'Inter', sans-serif;
+      position: absolute; left: 22.35px;top: 264px;
+      display: flex;
+align-items: center;justify-content: center
+    }
+ .share-phone-s-internet-connection-via-bluetooth {
+      color: rgba(0, 0, 0, 0.40);
+      text-align: left;
+      font: 400 15px 'Inter', sans-serif;
+      position: absolute; left: 23.01px;top: 289px;
+      width: 249px;
+      display: flex;
+align-items: center;justify-content: flex-start
+    }
+ .use-hotsport-and-tethering-to-provide-internet-to-other-devices-through-your-mobile-data-connection--apps-can-also-create-a-hotspot-to-share-contents-with-nearby-devices {
+      color: rgba(0, 0, 0, 0.40);
+      text-align: left;
+      font: 400 12px 'Inter', sans-serif;
+      position: absolute; left: 50.01px;top: 372px;
+      width: 325px;
+      display: flex;
+align-items: center;justify-content: flex-start
+    }
+ .rectangle-21 {
+      background: #d9d9d9;
+      border-radius: 120px;
+      width: 53.72px; height: 25px;
+      position: absolute; left: 310.01px;top: 282px;
+    }
+ .ellipse-4 {
+      background: #ffffff;
+      border-radius: 50%;
+      width: 24.21px; height: 23.53px;
+      position: absolute; left: 312.01px;top: 283px;
+    }
+ .vector {
+      position: absolute; left: 9.67px;top: 389px;
+      overflow: visible;
+    }
+ .vector2 {
+      position: absolute; left: 22px;top: 401px;
+      overflow: visible;
+    }
